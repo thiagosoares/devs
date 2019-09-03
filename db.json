@@ -1,0 +1,60 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "nome": "Thiago Soares",
+      "nivel": "Básico",
+      "pontuacao": 500
+    },
+    {
+      "id": 2,
+      "nome": "Romário Getulio Vargas",
+      "nivel": "Avançado",
+      "pontuacao": 5500
+    },
+    {
+      "id": 3,
+      "nome": "Rômulo",
+      "nivel": "Master",
+      "pontuacao": 15000
+    },
+    {
+      "id": 4,
+      "nome": "George",
+      "nivel": "Master++",
+      "pontuacao": 15000
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "nome": "Central de Atos - Java",
+      "developerId": 1
+    },
+    {
+      "id": 2,
+      "nome": "PgeNet - Delphi",
+      "developerId": 2
+    },
+    {
+      "id": 3,
+      "nome": "Central de Atos - Delphi",
+      "developerId": 2
+    },
+    {
+      "id": 4,
+      "nome": "Central de Atos - Delphi",
+      "developerId": 3
+    },
+    {
+      "id": 5,
+      "nome": "Arquitetura - Delphi",
+      "developerId": 3
+    },
+    {
+      "id": 6,
+      "nome": "StopTheLine",
+      "developerId": 3
+    }
+  ]
+}
